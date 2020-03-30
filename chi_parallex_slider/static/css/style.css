@@ -1,0 +1,43 @@
+body{
+    background-color: #b8b8b8;
+}
+
+.containerone{
+    background-color: #000000;
+    color: #b8b8b8;
+}
+
+.worddesc {
+    padding: 85px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.jumbotron {
+    background-color: #000000;
+    font-family: 'Acme', sans-serif;
+}
+
+.soccer {
+    height: 600px;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    margin: 35px 0;
+}
+
+.myBtn {
+    z-index: 99;
+    /* font-size: 18px; */
+    border: none;
+    outline: none;
+    background-color: #000000;
+    color: #b8b8b8;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+
+.divider {
+    margin: 40px 0;
+}
